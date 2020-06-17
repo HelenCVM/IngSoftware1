@@ -1,4 +1,6 @@
-package ups.edu.ec.modelo;
+package ups.edu.ec.modelo.contabilidad;
+
+import ups.edu.ec.modelo.transaccion.Credito;
 
 public class CarteraCreditos {
 

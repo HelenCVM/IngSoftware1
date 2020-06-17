@@ -1,4 +1,4 @@
-package ups.edu.ec.modelo;
+package ups.edu.ec.modelo.usuario;
 
 import java.util.List;
 

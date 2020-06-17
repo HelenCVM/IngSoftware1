@@ -1,4 +1,4 @@
-package ups.edu.ec.modelo;
+package ups.edu.ec.modelo.usuario;
 
 public abstract class Persona {
 	 private int cod;

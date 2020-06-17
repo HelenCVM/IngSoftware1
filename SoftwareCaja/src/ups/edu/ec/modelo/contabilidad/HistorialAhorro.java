@@ -1,6 +1,8 @@
-package ups.edu.ec.modelo;
+package ups.edu.ec.modelo.contabilidad;
 
 import java.util.Date;
+
+import ups.edu.ec.modelo.transaccion.CuentaAhorro;
 
 public class HistorialAhorro {
 

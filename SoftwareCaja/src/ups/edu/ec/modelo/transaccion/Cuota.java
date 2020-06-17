@@ -1,4 +1,4 @@
-package ups.edu.ec.modelo;
+package ups.edu.ec.modelo.transaccion;
 
 import java.util.Date;
 

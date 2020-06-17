@@ -1,6 +1,8 @@
-package ups.edu.ec.modelo;
+package ups.edu.ec.modelo.transaccion;
 
 import java.util.List;
+
+import ups.edu.ec.modelo.usuario.Socio;
 
 public class CuentaAhorro {
 
