@@ -6,6 +6,11 @@ public abstract class Persona {
 	   private String apellidosCompletos;
 	   private String numeroCedula;
 	   private String direccion;
+	   
+	   
+	   
+	
+	
 	public int getCod() {
 		return cod;
 	}
