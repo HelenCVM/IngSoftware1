@@ -47,7 +47,14 @@ public String toString() {
 	return "CajaAhorro [nombre=" + nombre + ", direccion=" + direccion + ", administrador=" + administrador + ", socio="
 			+ socio + "]";
 }
- 
+
+//Metodo para agregar socio a la caja de ahorro
+public Socio agregarSocio(Socio socio) {
+	this.getSocio().add(socio);
+	return socio;
+//
+}
+
  
  
  
